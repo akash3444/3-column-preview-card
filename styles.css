@@ -61,10 +61,16 @@ body {
 .btn {
   border-radius: 100vw;
   border: 2px solid var(--clr-nuetral-gray);
-  padding: 1rem 3rem;
+  padding: 0.7rem 2rem;
   font-family: "Lexend Deca", sans-serif;
   font-size: 1rem;
   margin-top: 5rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: transparent;
+  color: var(--clr-nuetral-gray) !important;
 }
 
 @media (min-width: 1440px) {
