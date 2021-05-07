@@ -50,6 +50,7 @@ body {
   font-family: "Big Shoulders Display", cursive;
   color: var(--clr-nuetral-gray);
   font-size: 3rem;
+  text-transform: uppercase;
 }
 
 .card__body {
