@@ -49,6 +49,7 @@ body {
 .card__heading {
   font-family: "Big Shoulders Display", cursive;
   color: var(--clr-nuetral-gray);
+  font-size: 3rem;
 }
 
 .card__body {
@@ -63,6 +64,7 @@ body {
   padding: 1rem 3rem;
   font-family: "Lexend Deca", sans-serif;
   font-size: 1rem;
+  margin-top: 5rem;
 }
 
 @media (min-width: 1440px) {
